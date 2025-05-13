@@ -20,7 +20,7 @@ I am a **Mobile App Developer** specializing in **Flutter** and **Dart**. With a
 | **Category**             | **Skills**                                         |
 |--------------------------|----------------------------------------------------|
 | **Languages**             | Dart 🦋, C++ 💡, PHP 🌍, JavaScript 💻, C, Java, Python              |
-| **Frameworks and Lib**            | Flutter 📱, Node.js 🔥, express. js                            |
+| **Frameworks and Lib**            | Flutter 📱, Node.js 🔥, express. js , golang                           |
 | **Databases**             | MySQL 🗃️, MongoDB 🌱, Firebase 🔥                 |
 | **Tools & Platforms**     | Git & GitHub 🔧, VS Code 🖋️, Figma 🎨, Postman 🚀  |
 
