@@ -2,7 +2,7 @@
 
 <!-- Full-width banner image -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtpaDU1cWppZHhlbzZxbXNrZ2F5bHhvMTd5OTJjbHRydDJkNHByZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="250" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtpaDU1cWppZHhlbzZxbXNrZ2F5bHhvMTd5OTJjbHRydDJkNHByZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="200" />
 </p>
 
 <h2 align="center">🚀 Full Stack Mobile App Developer | 🎨 Tech Artist | 🏅 India Skills Finalist</h2>
