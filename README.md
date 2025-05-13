@@ -1,11 +1,11 @@
 # 💻 Hi there, I'm **Pritam** 👋
 
-<!-- Full-width banner image with adjusted height for a banner feel -->
+<!-- Full-width banner image -->
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtpaDU1cWppZHhlbzZxbXNrZ2F5bHhvMTd5OTJjbHRydDJkNHByZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="250" />
 </p>
 
-🚀 **Mobile App Developer** | 🔐 **Bug Hunter** | 💡 **Innovator** | 🇮🇳 **National Finalist - Viksit Bharat**
+<h2 align="center">🚀 Full Stack Mobile App Developer | 🎨 Tech Artist | 🏅 India Skills Finalist</h2>
 
 ---
 
@@ -17,19 +17,20 @@ I am a **Mobile App Developer** specializing in **Flutter** and **Dart**. With a
 
 ### ⚙️ **Tech Stack**
 
-| **Category**             | **Skills**                                         |
-|--------------------------|----------------------------------------------------|
-| **Languages**             | Dart 🦋, C++ 💡, PHP 🌍, JavaScript 💻, C, Java, Python              |
-| **Frameworks and Lib**            | Flutter 📱, Node.js 🔥, express. js , golang                           |
-| **Databases**             | MySQL 🗃️, MongoDB 🌱, Firebase 🔥                 |
-| **Tools & Platforms**     | Git & GitHub 🔧, VS Code 🖋️, Figma 🎨, Postman 🚀  |
+| **Category**        | **Skills & Tools**                                                                                   |
+|---------------------|------------------------------------------------------------------------------------------------------|
+| **Languages**       | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) |
+| **Backend**         | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
+| **Frameworks**      | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) |
+| **Databases**       | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) |
 
 ---
 
-### 🎯 **Problem Solving & DSA**
+### 🧠 **Currently Working On**
 
-- **LeetCode**: 250+ problems solved in **algorithms** and **data structures**.
-- **Competitive Coding**: Numerous **national-level hackathon wins** and **achievements**.
+- ✍️ Building a **JavaScript Journal**: A daily learning and update portal for tracking and publishing fresh JavaScript concepts and snippets.
+- 📊 Developing **Codelytics**: A smart platform to analyze your **coding profiles** more efficiently with visual reports and actionable insights.
 
 ---
 
@@ -52,9 +53,9 @@ I am a **Mobile App Developer** specializing in **Flutter** and **Dart**. With a
 
 I’m always open to **collaborations**, **open-source contributions**, or just a casual chat about the latest in **tech**. Whether you want to discuss new ideas, ask a tech question, or share insights, let's make something incredible together!
 
-- **Email**: [pritamjunior26@gmail.com](mailto:pritamjunior26@gmail.com) 💌
-- **GitHub**: [Pritam81](https://github.com/Pritam81) 🖥️
-- **LinkedIn**: [Pritam on LinkedIn](https://www.linkedin.com/in/pritam-stp-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-176610220/) 💼
+- **Email**: [pritamjunior26@gmail.com](mailto:pritamjunior26@gmail.com) 💌  
+- **GitHub**: [Pritam81](https://github.com/Pritam81) 🖥️  
+- **LinkedIn**: [Pritam on LinkedIn](https://www.linkedin.com/in/pritam-stp-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-176610220/) 💼  
 - **LeetCode**: [Pritam on LeetCode](https://leetcode.com/u/Pritam_STP/) 🎯
 
 <p align="center">
@@ -65,11 +66,11 @@ I’m always open to **collaborations**, **open-source contributions**, or just 
 
 ### 🏆 **Achievements**
 
-- **National Finalist - Viksit Bharat**: Represented my region at the prestigious Viksit Bharat event, presenting on **how technology is shaping India's future**.
-- **India Skills Competition**: Represented **Sikkim** at the **National Level** in **Mobile Application Development** at the **India Skills Competition**, held in Bangalore.
-- **Bug Bounty Award**: Awarded by **Meta** for discovering a **critical vulnerability** in **WhatsApp**.
-- **Coding Competitions**: Multiple wins in **inter-college** competitions, including **Aikyam Fest** and **Ablaze Fest**.
-- **Represented Sikkim**: At the **Kickstart 3.0 Startup Conclave** at **IIT Guwahati** and **Viksit Bharat Dialogue**.
+- 🇮🇳 **National Finalist - Viksit Bharat**: Represented my region at the prestigious Viksit Bharat event, presenting on **how technology is shaping India's future**.
+- 🥇 **India Skills Competition**: Represented **Sikkim** at the **National Level** in **Mobile Application Development** at the **India Skills Competition**, held in Bangalore.
+- 🛡️ **Bug Bounty Award**: Awarded by **Meta** for discovering a **critical vulnerability** in **WhatsApp**.
+- 🏆 **Coding Competitions**: Multiple wins in **inter-college** competitions, including **Aikyam Fest** and **Ablaze Fest**.
+- 🎤 **Represented Sikkim**: At the **Kickstart 3.0 Startup Conclave** at **IIT Guwahati** and **Viksit Bharat Dialogue**.
 
 ---
 
