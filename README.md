@@ -7,7 +7,7 @@
 
 <h2 align="center">🚀 Full Stack Mobile App Developer | 🎨 Tech Artist | 🏅 India Skills Finalist</h2>
 
----
+
 
 ### 🧑‍💻 **About Me**
 
