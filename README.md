@@ -49,7 +49,7 @@ I am a **Mobile App Developer** specializing in **Flutter** and **Dart**. With a
 
 ---
 
-### 📬 **Let’s Connect and Create Magic! ✨**
+### 📬 **Let’s Connect and Create Magic!✨**
 
 I’m always open to **collaborations**, **open-source contributions**, or just a casual chat about the latest in **tech**. Whether you want to discuss new ideas, ask a tech question, or share insights, let's make something incredible together!
 
