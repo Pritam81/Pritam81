@@ -1,6 +1,6 @@
 #  Hello World🌐, I'm **Pritam** 👋 
 
-<!-- Full-width banner image -->
+<!-- Banner -->
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtpaDU1cWppZHhlbzZxbXNrZ2F5bHhvMTd5OTJjbHRydDJkNHByZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="200" />
 </p>
