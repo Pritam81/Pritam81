@@ -1,4 +1,4 @@
-#  Hello World🌐,I'm **Pritam** 👋 
+#  Hello World🌐,I'm **Pritam STP** 👋 
 
 <!-- Banner -->
 <p align="center">
